@@ -20,14 +20,14 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 8. [Time To Location](#time-to-location)
 9. [Per Day Spending](#per-day-spending)
 10. [Change Case](#change-case)
-11. [Sleeping Routine ⭐️⭐️⭐️](#sleeping-routine)
-12. [Holiday Expense Trackers ⭐️⭐️⭐️](#holiday-expense-trackers)
+11. [Sleeping Routine ⭐️⭐️⭐️](#sleeping-routine-⭐️⭐️⭐️)
+12. [Holiday Expense Trackers ⭐️⭐️⭐️](#holiday-expense-trackers-⭐️⭐️⭐️)
 
 ### 🗂 **Automations**
 
 > These are automations that make my everyday life easier
 
-1. [When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️](#when-iphone-or-ipad-is-charged-above-85)
+1. [When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️](#when-iphone-or-ipad-is-charged-above-85-⭐️⭐️⭐️)
 2. [Auto Rotate Lock](#auto-rotate-lock)
 
 ### 🗂 **Supporting shortcuts**
@@ -42,6 +42,8 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 ---
 
 ## Scheduler
+
+[Download this shortcut](https://www.icloud.com/shortcuts/54250f7649d344128d483903fb89c4c8)
 
 > **Motivation:** I found adding events into calendars a bit of a hassle as there are too many options and a lot of time, I just want to type in the key information about an event I'd like to log.
 
@@ -59,6 +61,8 @@ https://youtube.com/shorts/OItk8B7XPBo?feature=share
 
 ## Last Parked
 
+[Download this shortcut](https://www.icloud.com/shortcuts/274f24584ce244df8c61a8be70eb4e71)
+
 > **Motivation:** I tend to forget where I last parked my bike, and especially so when I am going to leave my bike there for some time before I ride it back.
 
 ### Solution:
@@ -72,6 +76,8 @@ A simple application that checks for my current location, and if it is near wher
 ---
 
 ## Movement Report
+
+[Download this shortcut](https://www.icloud.com/shortcuts/5b134de59d2f41e7aef6bdfad57114c8)
 
 > **Motivation:** When I was an IC in OCS, I had to send a lengthy standardised text into a WhatsApp chat group to document where we are heading, who is coming, and the purpose of movement.
 
@@ -88,6 +94,8 @@ https://youtube.com/shorts/1OznYbsawRQ?feature=share
 ---
 
 ## Running Track Distance Calculator
+
+[Download this shortcut](https://www.icloud.com/shortcuts/2a41114747034d90beadae44e786bf15)
 
 > **Motivation:** During COVID, you could only run on a specific lane in the public running track to prevent crowding in a lane. Considering that every lane has a different distance, it is difficult to determine the number of rounds you had to run to accomplish a certain distance.
 
@@ -107,6 +115,8 @@ I created a simple application that calculates the number of rounds one has to r
 
 ## Where Should I Eat For Lunch?
 
+[Download this shortcut](https://www.icloud.com/shortcuts/77eae63ecc56422ca5eda798f5eae942)
+
 > **Motivation:** My girlfriend can never make up her mind about where she'd want to eat for lunch. It was somehow my responsibility to then suggest a unique option every time she whined about it. To be fair, I do this sometimes due to the paradox of choice.
 
 ### Solution:
@@ -124,6 +134,8 @@ I filtered out the possible choices that she would deem worthy, then made a rand
 ---
 
 ## Get Battery
+
+[Download this shortcut](https://www.icloud.com/shortcuts/05eb6f8b7f3e41cfa7bd413f9d960577)
 
 > **Motivation:** Whenever I am charging my phone at the gym, I only had access to my apple watch. There is currently no feature to check on my phone's battery percentage through my apple watch, so I'd have to walk all the way to the locker and potentially having someone take my bench while I check on my battery level.
 
@@ -144,6 +156,8 @@ Very inefficient, but it's the only way out so far.
 
 ## Workout Planner
 
+[Download this shortcut](https://www.icloud.com/shortcuts/1ccbf2f657864940ab8aee5ddc0361c1)
+
 > **Motivation:** I follow a strict workout routine (Upper-Lower split, 2 types each) and can forget which split I last did in the gym. I also realised I had no way of tracking the past exercises I did and the weights I last did. Sometimes, there are deviations from the plan and I need to log it somewhere too.
 
 ### Solution:
@@ -157,6 +171,8 @@ A simple application that cycles through the split types (Upper 1, Lower 1, Uppe
 ---
 
 ## Time To Location
+
+[Download this shortcut](https://www.icloud.com/shortcuts/2a5c380a51ec4322be39d31fc0b1e040)
 
 > **Motivation:** Whenever I am trying to time how long it takes to reach a destination, I tend to forget to stop my stopwatch.
 
@@ -177,6 +193,8 @@ https://youtube.com/shorts/lLOPrP9VVkE?feature=share
 
 ## Per Day Spending
 
+[Download this shortcut](https://www.icloud.com/shortcuts/af937a3b64304621925a3cad608e5ac5)
+
 > **Motivation:** Although I track every cent I spend, the app that I use currently does not have a feature that allows me to see how much money I am left with to spend on an average daily basis till the end of a year (or a predefined time) according to a pre-set budget.
 
 ### Solution:
@@ -193,6 +211,8 @@ https://youtube.com/shorts/A1VeQ84Ol2Y?feature=share
 
 ## Change Case
 
+[Download this shortcut](https://www.icloud.com/shortcuts/7ad879f4f1b540a0b4e776e920a9e0ad)
+
 > **Motivation:** Whenever I try to alter the case of a sentence / block of text, I would have to do this by character manually - and this is a terrible experience especially on my phone.
 
 ### Solution:
@@ -208,6 +228,8 @@ https://youtube.com/shorts/_hEmVVTDLos?feature=share
 ---
 
 ## Sleeping Routine ⭐️⭐️⭐️
+
+[Download this shortcut](https://www.icloud.com/shortcuts/542fa023dea044dd9a8c5041a63a7dec)
 
 > **Motivation:** Just before I sleep, I would have to switch off the lights and run towards my bed before the light goes out and the monsters get to me. I could just tell Siri to turn off the lights but it takes a few tries for Siri to recognise the command while I shout across the room. On days where I really can't wake up, I tend to shut off my alarm on accident and continue sleeping, which has resulted in disastrous outcomes. (Woke up to my flight instructor asking if I was going to fly the first wave; almost missed an exam; etc.)
 
@@ -233,6 +255,8 @@ https://youtu.be/K6L8thAn7qA
 ---
 
 ## Holiday Expense Trackers ⭐️⭐️⭐️
+
+[Download this shortcut]()
 
 > **Motivation:** As an obsessive-compulsive expense-tracking maniac, I couldn't stand the idea of keying in dirty data into my money tracking app. What's worse is the "how much do I owe you ah" at the end of every trip because I NEED TO KNOW THE EXACT AMOUNT TO THE NEAREST CENT how much I owe or people owe me.
 
@@ -261,6 +285,8 @@ Room for improvement:
 ---
 
 ## When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️
+
+[Download this shortcut](https://www.icloud.com/shortcuts/802807d8fb1e4b2892c6442d3ec8db08)
 
 > **Motivation:** The best way to preserve battery life is to keep your device's battery charge between 20% to 80%. I often forget to unplug my phone since I may be busy at times, and would be afraid of leaving my phone to charge overnight.
 
@@ -310,6 +336,8 @@ https://youtube.com/shorts/c6K4dlHYUVs?feature=share
 
 ## Read or Write JSON File
 
+[Download this shortcut](https://www.icloud.com/shortcuts/674cbdbfe8ca4ff5a5f3d901987bf0c4)
+
 > **Motivation:**
 
 ### Solution:
@@ -323,6 +351,8 @@ https://youtu.be/K4jyYGQt9No
 ---
 
 ## Encode or Decode Audio
+
+[Download this shortcut](https://www.icloud.com/shortcuts/ee64315e2c374746a1e304ab85113ffd)
 
 > **Motivation:**
 
