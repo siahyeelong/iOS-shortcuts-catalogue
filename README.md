@@ -1,4 +1,3 @@
-![eat where demo 1](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/10fa5dc0-46fe-4e7e-869c-7b4a87f77d7d)
 # Yee Long's iOS Shortcut Catalog
 
 I enjoy making my life a little easier by setting up shortcut applications and automations that improve my workflow.
