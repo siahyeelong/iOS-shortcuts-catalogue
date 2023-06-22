@@ -51,13 +51,6 @@ A simple application that lives as a widget on my devices that prompts me for th
 
 ### Demo:
 
-![Screenshot 2023-06-22 at 3 41 32 PM](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/13980b9b-5e7f-401b-90de-e909ac2ea6ca)
-
-
-https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/4ef59f2b-1953-4acb-9f8d-3acd62f603c1
-
-
-
 ---
 
 ## Last Parked
