@@ -50,7 +50,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 A simple application that lives as a widget on my devices that prompts me for the key information about an event.
 
 ### Demo:
-
+https://github.com/siahyeelong/iOS-shortcuts-catalogue/blob/main/Scheduler%20demo.MP4
 ---
 
 ## Last Parked
