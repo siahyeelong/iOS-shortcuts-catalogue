@@ -9,36 +9,37 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 > Listed are applications which I use frequently
 
 1. [Scheduler](#scheduler)
-2. [Last Parked](#last)
-3. [Movement Report](#movement)
-4. [Running Track Distance Calculator](#running)
-5. [Where Should I Eat For Lunch?](#where)
-6. [Get Battery](#getbatt)
-7. [Workout Planner](#workout)
-8. [Time To Location](#timetoloc)
-9. [Per Day Spending](#perday)
-10. [Change Case](#changecase)
-11. [Sleeping Routine](#sleep)
-12. [Holiday Expense Trackers](#holiday)
+2. [Last Parked](#last-parked)
+3. [Movement Report](#movement-report)
+4. [Running Track Distance Calculator](#running-track-distance-calculator)
+5. [Where Should I Eat For Lunch?](#where-should-i-eat-for-lunch)
+6. [Get Battery](#get-battery)
+7. [Workout Planner](#workout-planner)
+8. [Time To Location](#time-to-location)
+9. [Per Day Spending](#per-day-spending)
+10. [Change Case](#change-case)
+11. [Sleeping Routine](#sleeping-routine)
+12. [Holiday Expense Trackers](#holiday-expense-trackers)
 
 ### 🗂 **Automations**
 
 > These are automations that make my everyday life easier
 
-1. [When Iphone / Ipad Is Charged Above >85%](#when85)
-2. [Auto Rotate Lock](#rotate)
+1. [When iPhone or iPad Is Charged Above 85%](#when-iphone-or-ipad-is-charged-above-85)
+2. [Auto Rotate Lock](#auto-rotate-lock)
 
 ### 🗂 **Supporting shortcuts**
 
 > These are shortcuts which I made to improve my workflow of making shortcuts
 
-1. [Read / Write Json File](#json)
-2. [Encode / Decode Audio](#audio)
+1. [Read or Write Json File](#read-or-write-json-file)
+2. [Encode or Decode Audio](#encode-or-decode-audio)
 
 ---
+
 ---
 
-## [Scheduler](#scheduler)
+## Scheduler
 
 > **Motivation:**
 
@@ -48,7 +49,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Last Parked](#last)
+## Last Parked
 
 > **Motivation:**
 
@@ -58,7 +59,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Movement Report](#movement)
+## Movement Report
 
 > **Motivation:**
 
@@ -68,7 +69,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Running Track Distance Calculator](#running)
+## Running Track Distance Calculator
 
 > **Motivation:**
 
@@ -78,7 +79,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Where Should I Eat For Lunch?](#where)
+## Where Should I Eat For Lunch?
 
 > **Motivation:**
 
@@ -88,7 +89,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Get Battery](#getbatt)
+## Get Battery
 
 > **Motivation:**
 
@@ -98,7 +99,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Workout Planner](#workout)
+## Workout Planner
 
 > **Motivation:**
 
@@ -108,7 +109,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Time To Location](#timetoloc)
+## Time To Location
 
 > **Motivation:**
 
@@ -118,7 +119,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Per Day Spending](#perday)
+## Per Day Spending
 
 > **Motivation:**
 
@@ -128,7 +129,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Change Case](#changecase)
+## Change Case
 
 > **Motivation:**
 
@@ -138,7 +139,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Sleeping Routine](#sleep)
+## Sleeping Routine
 
 > **Motivation:**
 
@@ -148,7 +149,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Holiday Expense Trackers](#holiday)
+## Holiday Expense Trackers
 
 > **Motivation:**
 
@@ -158,7 +159,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [When Iphone / Ipad Is Charged Above >85%](#when85)
+## When iPhone or iPad Is Charged Above 85%
 
 > **Motivation:**
 
@@ -168,7 +169,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Auto Rotate Lock](#rotate)
+## Auto Rotate Lock
 
 > **Motivation:**
 
@@ -178,7 +179,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Read / Write Json File](#json)
+## Read or Write Json File
 
 > **Motivation:**
 
@@ -188,7 +189,7 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
-## [Encode / Decode Audio](#audio)
+## Encode or Decode Audio
 
 > **Motivation:**
 
