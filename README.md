@@ -50,7 +50,9 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 A simple application that lives as a widget on my devices that prompts me for the key information about an event.
 
 ### Demo:
-https://github.com/siahyeelong/iOS-shortcuts-catalogue/blob/main/Scheduler%20demo.MP4
+
+https://youtube.com/shorts/OItk8B7XPBo?feature=share
+
 ---
 
 ## Last Parked
@@ -74,6 +76,8 @@ A simple application that checks for my current location, and if it is near wher
 To overcome the hassle of copying and pasting the past text and potentially missing out on updating certain fields, I created an application that prompts me for the necessary blanks to fill in, and settles the time stamp for me in 24H format.
 
 ### Demo:
+
+https://youtube.com/shorts/1OznYbsawRQ?feature=share
 
 ---
 
@@ -139,6 +143,8 @@ This currently works terribly as iOS shortcuts merely prompts you to run the aut
 
 ### Demo:
 
+https://youtube.com/shorts/lLOPrP9VVkE?feature=share
+
 ---
 
 ## Per Day Spending
@@ -151,6 +157,8 @@ A simple application that calculates the time left till the end of the year and 
 
 ### Demo:
 
+https://youtube.com/shorts/A1VeQ84Ol2Y?feature=share
+
 ---
 
 ## Change Case
@@ -162,6 +170,8 @@ A simple application that calculates the time left till the end of the year and 
 A simple application that prompts the type of case change, and transforms the clipboard item and saves the output back into the clipboard.
 
 ### Demo:
+
+https://youtube.com/shorts/_hEmVVTDLos?feature=share
 
 ---
 
@@ -183,6 +193,8 @@ while I take my time to get to bed before the Lights Off command gets triggered.
 Additional feature: the application detects my location so that it turns off either the lights at home or in my hall respectively.
 
 ### Demo:
+
+https://youtu.be/K6L8thAn7qA
 
 ---
 
@@ -250,6 +262,8 @@ Based on the defined list of apps, the rotation lock will turn off when I am usi
 
 ### Demo:
 
+https://youtube.com/shorts/c6K4dlHYUVs?feature=share
+
 ---
 
 ## Read or Write Json File
@@ -260,6 +274,8 @@ Based on the defined list of apps, the rotation lock will turn off when I am usi
 
 ### Demo:
 
+https://youtu.be/K4jyYGQt9No
+
 ---
 
 ## Encode or Decode Audio
@@ -269,3 +285,5 @@ Based on the defined list of apps, the rotation lock will turn off when I am usi
 ### Solution:
 
 ### Demo:
+
+https://youtu.be/corUfTh7Nio
