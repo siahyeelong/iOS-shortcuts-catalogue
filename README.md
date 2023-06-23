@@ -209,7 +209,7 @@ This currently works terribly as iOS shortcuts merely prompts you to run the aut
 <div style="display:flex;">
   <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/310757da-3b4e-4b68-8155-e69068269a0e" width="300" height="650" alt="Time to location demo 1">
   <video width="300" height="650" controls>
-    <source src="[https://example.com/path/to/video.mp4](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/386dea05-9d3c-47a3-b996-edf84fcf23b2)" type="video/mp4">
+    <source src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/386dea05-9d3c-47a3-b996-edf84fcf23b2" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
