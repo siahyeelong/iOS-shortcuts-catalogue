@@ -113,6 +113,13 @@ I created a simple application that calculates the number of rounds one has to r
 
 ### Demo:
 
+<div style="display:flex;">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/e47b94f3-7fdd-4641-b95e-258e41348740" width="300" height="650" alt="Running track demo 1">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/7e0295d7-3fc0-4e5d-b64c-65e53d4db166" width="300" height="650" alt="Running track demo 2">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f102eb0a-6c9d-4366-aefb-85f509ea056c" width="300" height="650" alt="Running track demo 3">
+</div>
+
+
 ![Running track demo 1](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/e47b94f3-7fdd-4641-b95e-258e41348740)
 ![Running track demo 2](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/7e0295d7-3fc0-4e5d-b64c-65e53d4db166)
 ![Running track demo 3](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f102eb0a-6c9d-4366-aefb-85f509ea056c)
@@ -202,7 +209,8 @@ This currently works terribly as iOS shortcuts merely prompts you to run the aut
 
 ### Demo:
 
-https://youtube.com/shorts/lLOPrP9VVkE?feature=share
+https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/386dea05-9d3c-47a3-b996-edf84fcf23b2
+
 ![time to location 2](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/310757da-3b4e-4b68-8155-e69068269a0e)
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
@@ -223,7 +231,7 @@ A simple application that calculates the time left till the end of the year and 
 
 ### Demo:
 
-https://youtube.com/shorts/A1VeQ84Ol2Y?feature=share
+https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/3143771c-0391-43d4-8df8-c1ee342ec359
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
@@ -272,7 +280,7 @@ Additional feature: the application detects my location so that it turns off eit
 
 ### Demo:
 
-https://youtu.be/K6L8thAn7qA
+https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f55ecd0a-a181-47b1-8220-a3d70b21412c
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
@@ -398,7 +406,7 @@ I made use of the built-in base64 encode and decode function in iOS shortcuts th
 
 ### Demo:
 
-https://youtu.be/corUfTh7Nio
+https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/16ab9821-08b2-4d94-a299-643b672d5718
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
