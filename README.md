@@ -41,6 +41,8 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 
 ---
 
+## 🗓️
+
 ## Scheduler
 
 [Download this shortcut](https://www.icloud.com/shortcuts/54250f7649d344128d483903fb89c4c8)
@@ -59,6 +61,8 @@ https://youtube.com/shorts/OItk8B7XPBo?feature=share
 
 ---
 
+## 🚲
+
 ## Last Parked
 
 [Download this shortcut](https://www.icloud.com/shortcuts/274f24584ce244df8c61a8be70eb4e71)
@@ -74,6 +78,8 @@ A simple application that checks for my current location, and if it is near wher
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 💬
 
 ## Movement Report
 
@@ -92,6 +98,8 @@ https://youtube.com/shorts/1OznYbsawRQ?feature=share
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 🏃🏻‍♂️
 
 ## Running Track Distance Calculator
 
@@ -113,6 +121,8 @@ I created a simple application that calculates the number of rounds one has to r
 
 ---
 
+## 🌮
+
 ## Where Should I Eat For Lunch?
 
 [Download this shortcut](https://www.icloud.com/shortcuts/77eae63ecc56422ca5eda798f5eae942)
@@ -132,6 +142,8 @@ I filtered out the possible choices that she would deem worthy, then made a rand
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 🔋
 
 ## Get Battery
 
@@ -154,6 +166,8 @@ Very inefficient, but it's the only way out so far.
 
 ---
 
+## 🏋🏻‍♂️
+
 ## Workout Planner
 
 [Download this shortcut](https://www.icloud.com/shortcuts/1ccbf2f657864940ab8aee5ddc0361c1)
@@ -166,9 +180,13 @@ A simple application that cycles through the split types (Upper 1, Lower 1, Uppe
 
 ### Demo:
 
+https://www.youtube.com/shorts/3pVpziiJzU0
+
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 📍
 
 ## Time To Location
 
@@ -191,6 +209,8 @@ https://youtube.com/shorts/lLOPrP9VVkE?feature=share
 
 ---
 
+## 💸
+
 ## Per Day Spending
 
 [Download this shortcut](https://www.icloud.com/shortcuts/af937a3b64304621925a3cad608e5ac5)
@@ -209,6 +229,8 @@ https://youtube.com/shorts/A1VeQ84Ol2Y?feature=share
 
 ---
 
+## 🔠
+
 ## Change Case
 
 [Download this shortcut](https://www.icloud.com/shortcuts/7ad879f4f1b540a0b4e776e920a9e0ad)
@@ -226,6 +248,8 @@ https://youtube.com/shorts/_hEmVVTDLos?feature=share
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 😴
 
 ## Sleeping Routine ⭐️⭐️⭐️
 
@@ -253,6 +277,8 @@ https://youtu.be/K6L8thAn7qA
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 🛫
 
 ## Holiday Expense Trackers ⭐️⭐️⭐️
 
@@ -283,6 +309,8 @@ Room for improvement:
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
+
+## 🪫
 
 ## When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️
 
@@ -318,6 +346,8 @@ https://youtu.be/WITtoHhh8WA
 
 ---
 
+## 🔁
+
 ## Auto Rotate Lock
 
 > **Motivation:** I like having my phone's rotation to be on lock whenever I am using it vertically except when I am trying to take a picture, watch a video, or show someone my photos. It becomes a hassle to turn off and on the rotation lock sometimes.
@@ -334,13 +364,17 @@ https://youtube.com/shorts/c6K4dlHYUVs?feature=share
 
 ---
 
+## 📁
+
 ## Read or Write JSON File
 
 [Download this shortcut](https://www.icloud.com/shortcuts/674cbdbfe8ca4ff5a5f3d901987bf0c4)
 
-> **Motivation:**
+> **Motivation:** If you have seen my iOS shortcuts applications, you may realise that I tend to save a lot of the statuses in iCloud such that data is synced throughout my devices. This is done using the JSON format so that the data can be easily read and modified.
 
 ### Solution:
+
+I created a simple application that allows me to create a new JSON file easily simply by keying in the relevant fields
 
 ### Demo:
 
@@ -350,13 +384,17 @@ https://youtu.be/K4jyYGQt9No
 
 ---
 
+## 🔊
+
 ## Encode or Decode Audio
 
 [Download this shortcut](https://www.icloud.com/shortcuts/ee64315e2c374746a1e304ab85113ffd)
 
-> **Motivation:**
+> **Motivation:** In some of my applications, I prefer encoding my audio files and later on decode them within the shortcut before being played. This is such that I can have my shortcut work even if I accidentally delete the audio file.
 
 ### Solution:
+
+I made use of the built-in base64 encode and decode function in iOS shortcuts that encodes and decodes the file for me.
 
 ### Demo:
 
