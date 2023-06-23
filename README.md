@@ -20,14 +20,14 @@ Feel free to download these shortcuts and add them to your **Shortcuts App** (on
 8. [Time To Location](#time-to-location)
 9. [Per Day Spending](#per-day-spending)
 10. [Change Case](#change-case)
-11. [Sleeping Routine ⭐️⭐️⭐️](#sleeping-routine-⭐️⭐️⭐️)
-12. [Holiday Expense Trackers ⭐️⭐️⭐️](#holiday-expense-trackers-⭐️⭐️⭐️)
+11. [Sleeping Routine ⭐️⭐️⭐️](#sleeping-routine)
+12. [Holiday Expense Trackers ⭐️⭐️⭐️](#holiday-expense-trackers)
 
 ### 🗂 **Automations**
 
 > These are automations that make my everyday life easier
 
-1. [When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️](#when-iphone-or-ipad-is-charged-above-85-⭐️⭐️⭐️)
+1. [When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️](#when-iphone-or-ipad-is-charged-above-85)
 2. [Auto Rotate Lock](#auto-rotate-lock)
 
 ### 🗂 **Supporting shortcuts**
@@ -256,9 +256,9 @@ https://youtube.com/shorts/_hEmVVTDLos?feature=share
 
 ---
 
-## 😴
+## 😴 ⭐️⭐️⭐️
 
-## Sleeping Routine ⭐️⭐️⭐️
+## Sleeping Routine
 
 [Download this shortcut](https://www.icloud.com/shortcuts/542fa023dea044dd9a8c5041a63a7dec)
 
@@ -285,12 +285,13 @@ https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f55ecd0a
 
 ---
 
-## 🛫
+## 🛫 ⭐️⭐️⭐️
 
-## Holiday Expense Trackers ⭐️⭐️⭐️
+## Holiday Expense Trackers
 
-1. [Download this shortcut](https://www.icloud.com/shortcuts/e1806cd19b5a43b8962b826448287f8f)
-2. [View the demo Google Sheet here](https://docs.google.com/spreadsheets/d/1Rwkp0PxK0PGxXCKxKu_jtMhj8LnM0Kz1JVP9p9ovWuk/edit?usp=sharing)
+1. [Download this shortcut (main)](https://www.icloud.com/shortcuts/ad54be11b84f4a73bb01decc9edc586b)
+2. [Download this shortcut (to upload to GForms)](https://www.icloud.com/shortcuts/e1806cd19b5a43b8962b826448287f8f)
+3. [View the demo Google Sheet here](https://docs.google.com/spreadsheets/d/1Rwkp0PxK0PGxXCKxKu_jtMhj8LnM0Kz1JVP9p9ovWuk/edit?usp=sharing)
 
 > **Motivation:** As an obsessive-compulsive expense-tracking maniac, I couldn't stand the idea of keying in dirty data into my money tracking app. What's worse is the "how much do I owe you ah" at the end of every trip because I NEED TO KNOW THE EXACT AMOUNT TO THE NEAREST CENT how much I owe or people owe me.
 
@@ -322,9 +323,9 @@ https://youtube.com/shorts/81PtiKXwgqk
 
 ---
 
-## 🪫
+## 🪫 ⭐️⭐️⭐️
 
-## When iPhone or iPad Is Charged Above 85% ⭐️⭐️⭐️
+## When iPhone or iPad Is Charged Above 85%
 
 [Download this shortcut](https://www.icloud.com/shortcuts/802807d8fb1e4b2892c6442d3ec8db08)
 
