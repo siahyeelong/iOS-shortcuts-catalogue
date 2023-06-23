@@ -289,7 +289,8 @@ https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f55ecd0a
 
 ## Holiday Expense Trackers ⭐️⭐️⭐️
 
-[Download this shortcut]()
+1. [Download this shortcut]()
+2. [View the demo Google Sheet here](https://docs.google.com/spreadsheets/d/1Rwkp0PxK0PGxXCKxKu_jtMhj8LnM0Kz1JVP9p9ovWuk/edit?usp=sharing)
 
 > **Motivation:** As an obsessive-compulsive expense-tracking maniac, I couldn't stand the idea of keying in dirty data into my money tracking app. What's worse is the "how much do I owe you ah" at the end of every trip because I NEED TO KNOW THE EXACT AMOUNT TO THE NEAREST CENT how much I owe or people owe me.
 
@@ -312,6 +313,9 @@ Room for improvement:
 - currently requires users to manually set up every thing for a new trip
 
 ### Demo:
+https://youtube.com/shorts/81PtiKXwgqk
+
+![Screenshot 2023-06-23 at 2 26 53 PM](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/614f215e-cba0-4957-bcbc-4c648a5798c3)
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
