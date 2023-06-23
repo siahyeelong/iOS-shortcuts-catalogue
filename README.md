@@ -119,11 +119,6 @@ I created a simple application that calculates the number of rounds one has to r
   <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f102eb0a-6c9d-4366-aefb-85f509ea056c" width="300" height="650" alt="Running track demo 3">
 </div>
 
-
-![Running track demo 1](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/e47b94f3-7fdd-4641-b95e-258e41348740)
-![Running track demo 2](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/7e0295d7-3fc0-4e5d-b64c-65e53d4db166)
-![Running track demo 3](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f102eb0a-6c9d-4366-aefb-85f509ea056c)
-
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
 ---
@@ -142,9 +137,11 @@ I filtered out the possible choices that she would deem worthy, then made a rand
 
 ### Demo:
 
-![eat where demo 1](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f1cc3493-de6f-4930-aae3-73b40e0d7430)
-![eat where demo 2](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/0a10d307-7686-4568-b55b-fcd4a3090fdc)
-![eat where demo 3](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/bc33df9c-c43b-49fc-8404-ad5f60e2d525)
+<div style="display:flex;">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/f1cc3493-de6f-4930-aae3-73b40e0d7430" width="300" height="650" alt="Where eat demo 1">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/0a10d307-7686-4568-b55b-fcd4a3090fdc" width="300" height="650" alt="Where eat demo 2">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/bc33df9c-c43b-49fc-8404-ad5f60e2d525" width="300" height="650" alt="Where eat demo 3">
+</div>
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
@@ -209,9 +206,10 @@ This currently works terribly as iOS shortcuts merely prompts you to run the aut
 
 ### Demo:
 
-https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/386dea05-9d3c-47a3-b996-edf84fcf23b2
-
-![time to location 2](https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/310757da-3b4e-4b68-8155-e69068269a0e)
+<div style="display:flex;">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/310757da-3b4e-4b68-8155-e69068269a0e" width="300" height="650" alt="Time to location demo 1">
+  <img src="https://github.com/siahyeelong/iOS-shortcuts-catalogue/assets/100999280/386dea05-9d3c-47a3-b996-edf84fcf23b2" width="300" height="650" alt="Time to location demo 2">
+</div>
 
 **_[⇪ Back to top ⇪](#yee-longs-ios-shortcut-catalog)_**
 
